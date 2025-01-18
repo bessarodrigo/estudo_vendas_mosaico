@@ -1,0 +1,1 @@
+# estudo_vendas_mosaico
