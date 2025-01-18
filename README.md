@@ -25,5 +25,6 @@ O projeto contém três gráficos principais:
   - `matplotlib`
   - `pandas`
   - `cycler`
- 
+
+ ## Resultado
   ![Mosaico](mosaico.png)
