@@ -27,4 +27,4 @@ O projeto contém três gráficos principais:
   - `cycler`
 
  ## Resultado
-![Mosaico](mosaico.png)
+![Mosaico](images\mosaico.png)
