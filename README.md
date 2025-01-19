@@ -26,4 +26,5 @@ O projeto contém três gráficos principais:
   - `pandas`
   - `cycler`
 
-
+## Resultado
+![Mosaico](images/mosaico.png)
